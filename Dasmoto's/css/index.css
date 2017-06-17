@@ -1,0 +1,36 @@
+h1{
+  text-align: center;
+  font-size: 100px;
+  color: khaki;
+  display: block;
+  font-weight: bold;
+  background-image: url("/Users/lewisarnold/Desktop/projects/Dasmoto's/resources/pattern.jpeg");
+}
+h1, h2, h3, p {
+    font-family: Helvetica;
+  }
+  div {
+    display: block;
+}
+.item h2 {
+    color: white;
+    font-size: 32px;
+}
+#brush {
+    background-color: MediumSpringGreen;
+  }
+  .price {
+    color: Blue;
+    font-weight: bold;
+}
+#frame {
+    background-color: LightCoral;
+}
+#paint {
+    background-color: SkyBlue;
+}
+h3{
+    display: block;
+    font-size: 1.17em;
+    font-weight: bold;
+}
